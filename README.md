@@ -10,11 +10,7 @@ A few resources to get you started if this is your first Flutter project:
 
 Login Screen:
 
-![image](https://user-images.githubusercontent.com/62188211/226208081-060cbe84-debc-463f-b6f6-0259baadde1e.png)
-
-Varification:
-
-![image](https://user-images.githubusercontent.com/62188211/226208184-539aff3c-fec1-4d25-ac86-63d855759f36.png)
+![image](https://user-images.githubusercontent.com/62188211/226208081-060cbe84-debc-463f-b6f6-0259baadde1e.png)Varification:![image](https://user-images.githubusercontent.com/62188211/226208184-539aff3c-fec1-4d25-ac86-63d855759f36.png)
 
 Home Page :
 
