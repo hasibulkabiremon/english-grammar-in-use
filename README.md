@@ -17,6 +17,10 @@ Home Page :                                                                     
 ![image](https://user-images.githubusercontent.com/62188211/226208319-d9f8468a-1097-40d1-8057-2b3f05e0a612.png)           ![image](https://user-images.githubusercontent.com/62188211/226208364-9e31bd3e-8a15-4cc3-93ed-88f452e27089.png)
 
 
+The Reading content screen have all the rich content. 
+Here I have Used html_enhanced_editor to create the content and flutter_html to view the content.
+
+
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
